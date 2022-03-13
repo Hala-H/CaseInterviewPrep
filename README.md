@@ -7,7 +7,7 @@ I have been struggling a little in finding good, free, and solved cases. Therefo
 ## Case Interview Structure
 It is a 45 minute interview divided into the following divisions.
 
-### Part 1: Background
+### Part 1: Background (PEI)
 In this part, the interview will spend 10 to 15 minutes asking you about your background. There are some common questions that you'll be asked and I will provide some of the general questions and answers that you need to prepare for.
 
 ### Part 2: The "Case"
