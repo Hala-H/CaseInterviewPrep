@@ -42,7 +42,7 @@ then you at least have this part to rely on. </p>
 
 17.	Why consulting? (23% of fit questions)
 
-18.	Why BCG? (21% of fit questions)
+18.	Why BCG/McKinsey/Bain? (21% of fit questions)
 
 19.	What do you think consultants do?
 
