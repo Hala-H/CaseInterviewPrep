@@ -9,10 +9,6 @@ then you at least have this part to rely on. </p>
 <p> These are the sample questions that I have found during my research. </p>
 
 1.	Tell me about yourself.
-2.	
-Good morning and thank you for this opportunity. My name is ....
-I am a ... I have always been interested in ....  The reason I chose my major was because 
-I also learned that ... I am maintaining a cumulative GPA of ... 
 
 2.	What accomplishments have given you the greatest satisfaction?
 
@@ -56,4 +52,3 @@ I also learned that ... I am maintaining a cumulative GPA of ...
 
 22.	Why should I hire you?
 
-Based on what you’ve said and from the research I’ve done, your company is looking for someone who is ...
