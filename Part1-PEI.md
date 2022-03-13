@@ -1,4 +1,4 @@
-<h1> Part 1 - Interview about yourself and background </h1>
+<h1> Part 1 - Personal Experience Interview (PEI) </h1>
 
 <p> The interview will be around 20 minutes.
 Make sure you have an answer for every question listed here. 
@@ -8,7 +8,7 @@ then you at least have this part to rely on. </p>
 
 <p> These are the sample questions that I have found during my research. </p>
 
-1.	Tell me about yourself.
+1.	Tell me about yourself. /n
 Good morning and thank you for this opportunity. My name is ....
 I am a ... I have always been interested in ....  The reason I chose my major was because 
 I also learned that ... I am maintaining a cumulative GPA of ... 
