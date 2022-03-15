@@ -10,7 +10,16 @@ It is a 45 minute interview divided into the following divisions.
 ### Part 1: Background (PEI)
 In this part, the interview will spend 10 to 15 minutes asking you about your background. There are some common questions that you'll be asked and I will provide some of the general questions and answers that you need to prepare for.
 
-#### Types of questions you can ask:
+
+### Part 2: The "Case"
+This is the fun part :D. Here, you will be provided with a case that you need to crack. It should be about 25 minutes I will provide some of my preparations for this section, including some personal tips and solved cases.
+
+These are the steps you need to follow to solve any case:
+#### Recap
+Recap the case prompt by summarizing the key points and paraphsrasing.
+#### Clarification 
+Ask some questions to clarify that you properly understand the case and the objectives and to make sure that you and the interviewer are on the same page.
+##### Types of questions you can ask:
 <a href = "https://hackingthecaseinterview.thinkific.com/courses/take/consulting/lessons/6142529-2-3-asking-clarifying-questions"> Reference </a>
 <ul>
   <li> Asking for a definition you are unfamiliar with </li>
@@ -20,8 +29,14 @@ In this part, the interview will spend 10 to 15 minutes asking you about your ba
 </ul>
 <p> If you cannot think of an intelligent question to ask, it is better not to ask anything. Asking bizarre questions might alarm your interviewer about your critical thinking skills. </p>
 
-### Part 2: The "Case"
-This is the fun part :D. Here, you will be provided with a case that you need to crack. It should be about 25 minutes I will provide some of my preparations for this section, including some personal tips and solved cases.
+#### Framework
+It is the most difficult part. You need to structure you solution properly. The most common examples of frameworks include Profitability and Market Aquisition.
+
+#### Analysis
+Here, you need to hypothesize and then based on that dive into each of the parts of your framework. In this part, you are expected to perform some quantitative and qualitative analysis, so you can ask for data. You will need basic math to perform some calculations. Remember, a calculator is never allowed in a case interview!
+
+#### Wrap Up and Recommendations
+Here, you summarize your findings and provide some suggestions based on your results. Some interviewers might ask you for the next steps such as cost vs revenue analysis, further analysis of the market, etc.
 
 ### Part 3: Your turn to ask questions
 Here, you have the chance to ask some questions. If you're like me, I am already thinking of what kind of questions should I ask and which ones would make me look smart :D. So, I will also provide some sample questions so that we all look smart.
