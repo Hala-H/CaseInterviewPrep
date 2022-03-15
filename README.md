@@ -41,3 +41,22 @@ Here, you summarize your findings and provide some suggestions based on your res
 ### Part 3: Your turn to ask questions
 Here, you have the chance to ask some questions. If you're like me, I am already thinking of what kind of questions should I ask and which ones would make me look smart :D. So, I will also provide some sample questions so that we all look smart.
 
+<a href = "https://hackingthecaseinterview.thinkific.com/pages/questions-to-ask-end-of-consulting-interview"> Reference</a>
+
+There are two categories of questions you should ask:
+<ul>
+  <li> Asking personalized questions focused on the interviewer </li>
+  <li> Asking intelligent questions focused on consulting or the firm </li>
+</ul>
+
+Examples of personalized questions:
+- Looking back at your first year in consulting, what would you have done differently?
+- How did you become interested in consulting?
+- What do you enjoy the most and the least about your job?
+- How did you choose the industry or specialty that you are currently in?
+
+Examples of intelligent firm based questions:
+- What are attributes or qualities of the most successful consultants?
+- What advice would you give to an incoming consultant?
+- What do you think are the biggest misconceptions about consulting?
+- I’m really interested in [specific industry, function, or program], can you speak to the opportunities to get more involved?
