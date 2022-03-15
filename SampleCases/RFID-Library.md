@@ -6,6 +6,8 @@ Your task is to assess the RFID technology for his library. How would you approa
 
 <a href = "https://www.preplounge.com/en/management-consulting-cases/candidate-led-usual-style/intermediate/dhl-consulting-case-books-codes-77"> Case Source </a>
 
+## Recap
+
 <p> Thank you for this very interesting case. I am glad I have the opportunity to solve it. 
 I am going to recap the case based on my understanding, then I might ask some questions for clarifications
 and to make sure we are on the same page. Finally, I will announce my approach for this problem. 
@@ -14,7 +16,9 @@ Does that sound okay? </p>
 <p> So, our client is a recently promoted director of a university library. He was offered, by the MoE to join 
   the RFID pilot with his library. Our client needs advice whether or not to accept the offer and we need to asses the
   RFID technology for his library. </p>
-  
+
+## Clarification
+
   <p> Before we dive in, I would like to ask a question. Do we have any information if other libraries were
   offered this or not? And if they did, do we know if they accepted or rejected? </p>
   <p> I am familiar with the RFID technology, but may I ask you to briefly explain it to me, if possible? </p>
@@ -28,7 +32,10 @@ Does that sound okay? </p>
   <li> RFID tags can be scanned in bulk </li>
   
   </ul>
-  <p> Okay, can I get a couple of minutes to structure my approach and reach a promising solution? </p>
+
+## Framework
+
+  <p> Okay, can I get a couple of minutes to structure my approach and reach a promising solution </p>
     
   <p> I believe the factors that we can look into are: cost, functionalities, risks </p>
   Costs:
@@ -50,13 +57,14 @@ Does that sound okay? </p>
   <li> New technology (might not be accepted or teething problems) </li>
   <li> System might not work </li>
   </ul>
-  
+
+## Analysis
+
 </p>Okay so the current situation is that each book is scanned manually by an employee for lending or return.
   What RFID offers is automating the process and saving the overhead of the time and allows bulk checkouts. 
   It also might reduce the need for employees saving costs. </p>
   
  <p> Can I get more information about the library such as the working hours, number of items and how many visitors or users per day? </p>
-
 
 Current system:
 
@@ -134,7 +142,7 @@ Total number of borrowers books per year:
 
 Calculated in FTE (Full-time employees) you need 0.57 FTE to carry out this new checkout process throughout the year.
 
-Recommendations:
+## Recommendations
 
 Based on the pure time savings it is highly recommended to switch to RFID. 
 The library can save almost one entire FTE which equals ~30,000 EUR per year in savings 
