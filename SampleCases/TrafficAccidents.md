@@ -1,17 +1,25 @@
 <h1> Traffic Accidents Factors </h1>
 
-<h3> The Megapolis City Council is looking to solve a major problem in the city’s traffic – for the last decade, the number of traffic accidents has been rising steadily.
-Which factors would you look at, to tackle this problem? </h3>
+## Case Prompt
+
+The Megapolis City Council is looking to solve a major problem in the city’s traffic – for the last decade, the number of traffic accidents has been rising steadily.
+Which factors would you look at, to tackle this problem? 
+
+## Recap
 
 <p> Thank you for this very interesting case. I am quite excited to solve it. Before we dive in, I am going to recap the problem and ask some questions to make sure we’re on the same page. Then, I will announce my approach. Does that sound okay to you? </p>
 
 <p> Okay, so our client is the Megapolis City Council. The number of traffic accidents has been increasing at a constant pace for the past 10 years. We must look for factors to reduce the number of accidents and solve the problem. Am I correct? </p>
+
+## Clarification
 
 <p> I would like to ask some questions, if possible. </p>
  <p> •	Are we looking at accidents involving vehicles such as cars, motorcycles, etc., or are pedestrians and cyclists included as well? </p>
  <p> •	Are fixed objects such as trees and walls or parked vehicles included as well? </p>
 
 <p> Great, thanks for the information. Now that we’re all on the same page, and the case has been clarified, I’d like to inform you of my approach. To eliminate this problem in the long run, I think it’s best to break down the problem using an issue tree, isolate the root cause in one of the branches, and gather information until we can draw an actionable solution. Is that approach okay to you? </p>
+
+## Analysis
 
 <p> To analyze this problem, I’m breaking it down into three parts: drivers, roads, weather conditions. Unless we have information pointing in the other direction, I’ll first hypothesize that the problem comes drivers side. </p>
 
