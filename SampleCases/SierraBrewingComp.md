@@ -1,4 +1,6 @@
-# Case Prompt
+# Sierra Brewing Company
+
+## Case Prompt
 
 Sierra Brewing Company is a brewery that produces and sells beer in the US. They are considering entering the wine market. Is this a good idea?
 <a href = "https://hackingthecaseinterview.thinkific.com/courses/take/consulting/lessons/6142583-3-6-putting-our-framework-strategy-to-practice"> Case Source </a>
