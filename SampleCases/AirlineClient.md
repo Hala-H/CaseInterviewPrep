@@ -1,4 +1,4 @@
-<h1> Case Study Prompt </h1>
+<h1> Case  Prompt </h1>
 
 <p> You have an airline client who is concerned about volatile revenue streams.
 
@@ -8,21 +8,22 @@ They have hired our company to help them understand how to smooth out revenue. <
 
 <a href = "https://managementconsulted.com/case-library/airline-revenue/"> Case Source </a>
 
-<h2>My approach: </h2>
+<h2> Recap </h2>
 
-<p> Thank you for this very interesting case and I am glad I have the chance to solve it. I will start by recapping
-  the case and ask some clarifying questions, just to make sure we're on the same page. Then, I will announce my approach.
+<p> Thank you for this very interesting case and I am glad I have the chance to solve it. I will start by recapping the case and ask some clarifying questions, just to make sure we're on the same page. Then, I will announce my approach.
   Is that okay? </p>
   
 <p> So our client is an airline company who is worried about their fluctuating revenue streams. 
   They are asking us to help them level out the fluctuations in their revenues. Am I correct? </p>
-  
+
+<h2> Clarifying Questions </h2>
   <p> I would like to ask some questions, if possible. </p>
   <ul>
   <li> How long has the fluctuations been going on? Is it something recent or has it been going for long? </li>
   <li> Are we concerned with specific revenue streams such as passengers, cargo fees, or other services? Or are we looking at it in general? </li>
   </ul>
   
+<h2> Framework </h2>
   <p> Thank you. May I take a couple of minutes to structure my approach? </p>
   
   <p> So the factors that I belive we can look into are the different revenue streams and try to determine if it the fluctuations come from a specific segment or not.
