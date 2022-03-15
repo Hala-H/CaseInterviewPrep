@@ -3,6 +3,7 @@
 ## Case Prompt
 
 It is better to listen to it directly from <a href = "https://hackingthecaseinterview.thinkific.com/courses/take/consulting/lessons/6142590-3-9-practice"> here.</a>
+Module 3.9 and it starts at minute 0.
 
 ## Recap
 
